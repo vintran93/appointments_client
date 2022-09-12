@@ -16,6 +16,7 @@
     "@testing-library/user-event": "^14.4.3",
     "axios": "^0.27.2",
     "bootstrap": "^5.2.1",
+    "debug": "^4.3.4",
     "history": "^5.3.0",
     "moment": "^2.29.4",
     "prop-types": "^15.8.1",
@@ -32,6 +33,7 @@
     "redux": "^4.2.0",
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.4.1",
+    "svgo": "^2.8.0",
     "validator": "^13.7.0",
     "web-vitals": "^3.0.1"
   },
