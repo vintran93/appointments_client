@@ -14,10 +14,6 @@ const loading = () => {
 }
 
 const appointments = () => dispatch => doctorActions.fetchAppointments()
-  // reutns plain JS object that must have type key
-  // action creater
-  // does not return JS object but a function that takes dispatch as argument Redux Thunk 
-  // delay dispatching of action b/c waiting for timeout or something else
   .then(response => {
     dispatch({
       type: APPOINTMENTS_SUCCESS,

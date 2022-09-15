@@ -1,8 +1,8 @@
 import { setMessage } from '../actions/message';
 import { authJWT, authHeader } from '../services/auth-header';
 
-const API_URL = 'https://appointments-app-api.herokuapp.com/';
-// const API_URL = 'http://localhost:3000/';
+// const API_URL = 'https://appointments-app-api.herokuapp.com/';
+const API_URL = 'http://localhost:3000/';
 
 const fetchDoctor = (id) => fetch(`${API_URL}/api/v1/doctors/${id}`, { headers: authHeader() })
 
@@ -46,7 +46,7 @@ export const fetchAppointments = id => {
 }
 
 export const addDoctor = doctor => {
-    console.log(doctor)
+    // console.log(doctor)
     return (dispatch) => {
         fetch(`${API_URL}/api/v1/doctors`, {
             method: 'POST',
