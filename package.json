@@ -1,6 +1,7 @@
 {
   "name": "appointments-client",
   "version": "0.1.0",
+  "homepage": "https://appointments-client.herokuapp.com/",
   "private": true,
   "engines": {
     "node": "18.7.0",
@@ -30,7 +31,6 @@
     "react-scripts": "4.0.0",
     "react-validation": "^3.0.7",
     "redux": "^4.0.5",
-    "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0",
     "validator": "^13.1.17",
     "web-vitals": "^0.2.4"
@@ -65,7 +65,7 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsx-a11y": "^6.6.1",
     "eslint-plugin-react": "^7.31.8",
-    "redux-devtools-extension": "^2.13.8",
+    "redux-devtools-extension": "^2.13.9",
     "stylelint": "^14.11.0",
     "stylelint-config-standard": "^28.0.0",
     "stylelint-csstree-validator": "^2.0.0",
