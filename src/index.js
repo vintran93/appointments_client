@@ -23,7 +23,7 @@ const enhancer = composeEnhancers(
   rootReducer
   // other store enhancers if any
 );
-const store = createStore(reducer, enhancer);
+const store = createStore(enhancer, compose);
 
 // const store = createStore(
 //   rootReducer,
