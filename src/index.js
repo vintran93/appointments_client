@@ -11,7 +11,9 @@ import App from './App';
 import thunk from 'redux-thunk';
 import { rootReducer } from './reducers/rootReducer'
 
-const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
+const composeEnhancers = composeWithDevTools({
+
+})
 
 const store = createStore(
   rootReducer,
