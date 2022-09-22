@@ -1,35 +1,27 @@
-# Getting Started with Create React App
+## Doctor Appointment Scheduling App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-Try out the live version [here](https://vintran93.github.io/appointments_client/).
-
-Check out the Ruby on Rails backend [here](https://github.com/vintran93/appointments_backend).
-## Movie Quotes
-The Movie Quotes App was created using JavaScript for the frontend and Ruby on Rails on the backend. The app allows a user to post a quote from their favorite movies and characters. The user can organize movies and their associated character cards and increment the like button and/or delete a movie or character.
-
-![giphy-movie-quotes](https://user-images.githubusercontent.com/78582898/188034763-34a7dcda-331e-4734-b8cb-127842231839.gif)
+This app was created using React for the frontend and Ruby on Rails on the backend. The app allows a patient to schedule an appointment with a doctor in a clinic near their home. The user can create an account, book, or delete appointments. 
 
 ## Live Link
 
-Try the live version of the app [here](https://vintran93.github.io/movie-quotes-client/).
+Try out the live version [here](https://vintran93.github.io/appointments_client/).
 
 ## Backend
 
-Checkout the Ruby on Rails section of the app [here](https://github.com/vintran93/movie-quotes-backend).
+Check out the Ruby on Rails backend [here](https://github.com/vintran93/appointments_backend).
 
 ## Built With
 
 * HTML
 * CSS
-* JavaScript
+* React JS
 * Ruby on Rails
 
 ## Possible features to add
-* User sign up/login 
+* Navigation Map
 * Search bar
-* Comments that persist to the database for movies/characters
-* Sort by character name 
+* Comments and ratings for each doctor
+* Profile update buttons
 
 ## Show some support
 
