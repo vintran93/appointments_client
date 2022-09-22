@@ -24,7 +24,7 @@ Check out the Ruby on Rails backend [here](https://github.com/vintran93/appointm
 * Comments and ratings for each doctor
 * Profile update buttons
 
-## Achknowledgements 
+## Acknowledgements 
 Inspired by [alishabab](https://github.com/alishabab/appointment-booking-frontend)
 
 ## License
