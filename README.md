@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Try out the live version [here](https://vintran93.github.io/appointments_client/).
 
+Check out the Ruby on Rails backend [here](https://github.com/vintran93/appointments_backend).
+
 ## Available Scripts
 
 In the project directory, you can run:
