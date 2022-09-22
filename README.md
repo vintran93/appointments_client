@@ -1,6 +1,6 @@
 ## Doctor Appointment Scheduling App
 
-This app is a single-page, full stack web application (SPA) where users can search doctors, book and delete appointments.
+This app is a single-page, full stack web application (SPA) where users can search doctors, add new doctors, book, and delete appointments.
 It utilizes Ruby on Rails with a PostgreSQL database on the back-end, and React.js and Redux on the front-end.
 
 ## Live Link
