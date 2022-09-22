@@ -11,14 +11,10 @@ import App from './App';
 import thunk from 'redux-thunk';
 import { rootReducer } from './reducers/rootReducer'
 
-const composeEnhancers = composeWithDevTools({
-
-})
 
 const store = createStore(
   rootReducer,
-  composeEnhancers(applyMiddleware(thunk)),
-  window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
+  composeWithDevTools(applyMiddleware(thunk))
 );
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

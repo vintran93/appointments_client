@@ -90,3 +90,13 @@ Good understanding of the react/redux state flow
 Good understanding of state and props in React
 
 Knowledge of async JS with Promises
+
+npm i gh-pages --save-d
+
+npm cache clean --force
+
+migrate to aws from heroku 
+
+npm uninstall
+
+npm run deploy
