@@ -32,3 +32,6 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed @ [vintran93]
 
+## Credit
+Inspired by [alishabab](https://github.com/alishabab/appointment-booking-frontend)
+
