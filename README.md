@@ -19,7 +19,7 @@ Check out the Ruby on Rails backend [here](https://github.com/vintran93/appointm
 * Ruby on Rails
 
 ## Possible features to add
-* Navigation Map
+* Navigation map
 * Search bar
 * Comments and ratings for each doctor
 * Profile update buttons
