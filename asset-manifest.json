@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.13745688.chunk.css",
-    "main.js": "/static/js/main.99dd5a46.chunk.js",
-    "main.js.map": "/static/js/main.99dd5a46.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.61695354.js",
-    "runtime-main.js.map": "/static/js/runtime-main.61695354.js.map",
-    "static/css/2.50b62eca.chunk.css": "/static/css/2.50b62eca.chunk.css",
-    "static/js/2.48c76caf.chunk.js": "/static/js/2.48c76caf.chunk.js",
-    "static/js/2.48c76caf.chunk.js.map": "/static/js/2.48c76caf.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.50b62eca.chunk.css.map": "/static/css/2.50b62eca.chunk.css.map",
-    "static/css/main.13745688.chunk.css.map": "/static/css/main.13745688.chunk.css.map",
-    "static/js/2.48c76caf.chunk.js.LICENSE.txt": "/static/js/2.48c76caf.chunk.js.LICENSE.txt",
-    "static/media/logo.043ce2bf.png": "/static/media/logo.043ce2bf.png",
-    "static/media/styles.css": "/static/media/revicons.e8746a62.woff"
+    "main.css": "/appointments_client/static/css/main.13745688.chunk.css",
+    "main.js": "/appointments_client/static/js/main.60ac753e.chunk.js",
+    "main.js.map": "/appointments_client/static/js/main.60ac753e.chunk.js.map",
+    "runtime-main.js": "/appointments_client/static/js/runtime-main.02487f96.js",
+    "runtime-main.js.map": "/appointments_client/static/js/runtime-main.02487f96.js.map",
+    "static/css/2.9d1280ed.chunk.css": "/appointments_client/static/css/2.9d1280ed.chunk.css",
+    "static/js/2.48c76caf.chunk.js": "/appointments_client/static/js/2.48c76caf.chunk.js",
+    "static/js/2.48c76caf.chunk.js.map": "/appointments_client/static/js/2.48c76caf.chunk.js.map",
+    "index.html": "/appointments_client/index.html",
+    "static/css/2.9d1280ed.chunk.css.map": "/appointments_client/static/css/2.9d1280ed.chunk.css.map",
+    "static/css/main.13745688.chunk.css.map": "/appointments_client/static/css/main.13745688.chunk.css.map",
+    "static/js/2.48c76caf.chunk.js.LICENSE.txt": "/appointments_client/static/js/2.48c76caf.chunk.js.LICENSE.txt",
+    "static/media/logo.043ce2bf.png": "/appointments_client/static/media/logo.043ce2bf.png",
+    "static/media/styles.css": "/appointments_client/static/media/revicons.e8746a62.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.61695354.js",
-    "static/css/2.50b62eca.chunk.css",
+    "static/js/runtime-main.02487f96.js",
+    "static/css/2.9d1280ed.chunk.css",
     "static/js/2.48c76caf.chunk.js",
     "static/css/main.13745688.chunk.css",
-    "static/js/main.99dd5a46.chunk.js"
+    "static/js/main.60ac753e.chunk.js"
   ]
 }
