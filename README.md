@@ -28,6 +28,9 @@ Check out the Ruby on Rails backend [here](https://github.com/vintran93/appointm
 
 Give a ⭐️ if you like this project!
 
+## Credit
+Inspired by [alishabab](https://github.com/alishabab/appointment-booking-frontend)
+
 ## License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed @ [vintran93]
