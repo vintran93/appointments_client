@@ -1,6 +1,7 @@
 ## Doctor Appointment Scheduling App
 
-This app was created using React for the frontend and Ruby on Rails on the backend. The app allows a patient to schedule an appointment with a doctor in a clinic near their home. The user can create an account, book, or delete appointments. 
+This app is a single-page, full stack web application (SPA) iwhere users can search doctors, book and delete appointments.
+It utilizes Ruby on Rails with a PostgreSQL database on the back-end, and React.js and Redux on the front-end.
 
 ## Live Link
 
