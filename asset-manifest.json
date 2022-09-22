@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/appointments_client/static/css/main.13745688.chunk.css",
-    "main.js": "/appointments_client/static/js/main.99dd5a46.chunk.js",
-    "main.js.map": "/appointments_client/static/js/main.99dd5a46.chunk.js.map",
+    "main.js": "/appointments_client/static/js/main.9991b8d1.chunk.js",
+    "main.js.map": "/appointments_client/static/js/main.9991b8d1.chunk.js.map",
     "runtime-main.js": "/appointments_client/static/js/runtime-main.02487f96.js",
     "runtime-main.js.map": "/appointments_client/static/js/runtime-main.02487f96.js.map",
     "static/css/2.9d1280ed.chunk.css": "/appointments_client/static/css/2.9d1280ed.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.9d1280ed.chunk.css",
     "static/js/2.48c76caf.chunk.js",
     "static/css/main.13745688.chunk.css",
-    "static/js/main.99dd5a46.chunk.js"
+    "static/js/main.9991b8d1.chunk.js"
   ]
 }
