@@ -5,102 +5,37 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Try out the live version [here](https://vintran93.github.io/appointments_client/).
 
 Check out the Ruby on Rails backend [here](https://github.com/vintran93/appointments_backend).
+## Movie Quotes
+The Movie Quotes App was created using JavaScript for the frontend and Ruby on Rails on the backend. The app allows a user to post a quote from their favorite movies and characters. The user can organize movies and their associated character cards and increment the like button and/or delete a movie or character.
 
-## Available Scripts
+![giphy-movie-quotes](https://user-images.githubusercontent.com/78582898/188034763-34a7dcda-331e-4734-b8cb-127842231839.gif)
 
-In the project directory, you can run:
+## Live Link
 
-### `npm start`
+Try the live version of the app [here](https://vintran93.github.io/movie-quotes-client/).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Backend
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Checkout the Ruby on Rails section of the app [here](https://github.com/vintran93/movie-quotes-backend).
 
-### `npm test`
+## Built With
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* HTML
+* CSS
+* JavaScript
+* Ruby on Rails
 
-### `npm run build`
+## Possible features to add
+* User sign up/login 
+* Search bar
+* Comments that persist to the database for movies/characters
+* Sort by character name 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Show some support
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Give a ⭐️ if you like this project!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## License
 
-### `npm run eject`
+This project is [MIT](https://opensource.org/licenses/MIT) licensed @ [vintran93]
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-The code is written in ES6 as much as possible
-
-create-react-app was used to create your React app
-
-There are 2 container components
-
-There are 5 stateless components
-
-There are 3 routes
-
-react-router is being used with proper RESTful routing
-
-Redux and redux-thunk middleware are being used to modify state change and make use of async actions to send data and receive data from the server
-
-Use of Rails API backend to persist data for the application
-
-Good understanding of the react/redux state flow
-
-Good understanding of state and props in React
-
-Knowledge of async JS with Promises
-
-npm i gh-pages --save-d
-
-npm cache clean --force
-
-migrate to aws from heroku 
-
-npm uninstall
-
-npm run deploy
