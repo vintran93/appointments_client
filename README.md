@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Try out the live version [here](https://vintran93.github.io/appointments_client/).
+
 ## Available Scripts
 
 In the project directory, you can run:
